@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm ogregonia1 🌵
+
+![github-contribution-grid-snake](https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg) 
 
 <!--
 **obregonia1/obregonia1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
