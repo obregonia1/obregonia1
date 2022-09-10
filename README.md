@@ -8,6 +8,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obregonia1&show_icons=true&count_private=true&theme=tokyonight&custom_title=obregonia1's%20GitHub%20Stats&locale=en" alt="obregonia1" /></p>
 
 <!-- BLOG-POST-LIST:START -->
+- [ウィンドウ操作をキーボードのみで爆速でやる方法](https://zenn.dev/obregonia1/articles/430f75871706e6)
+- [Hammerspoonで特定のアプリのみキーバインド設定する](https://zenn.dev/obregonia1/articles/f03c677eec372d)
+- [CIでのテスト実行時間を1/3にした](https://zenn.dev/obregonia1/articles/47c528f6e526f9)
+- [M1 Macでmysql2インストール時のエラー対応](https://zenn.dev/obregonia1/articles/2a804d3a3ecb17)
+- [Hammerspoonで英かな切り替えやEmacsキーバインドの設定](https://zenn.dev/obregonia1/articles/419ae303355f54)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
