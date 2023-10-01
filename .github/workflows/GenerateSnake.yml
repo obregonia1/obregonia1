@@ -22,7 +22,7 @@ jobs:
             ./img/snake.gif
             ./img/snake.svg
       - name: Push to GitHub
-        uses: EndBug/add-and-commit@v7.2.1
+        uses: EndBug/add-and-commit@main
         with:
           branch: main
           message: ':rocket: Update'
