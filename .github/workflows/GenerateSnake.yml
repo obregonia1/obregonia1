@@ -20,6 +20,8 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             ./img/snake.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Push to GitHub
         uses: EndBug/add-and-commit@main
         with:
