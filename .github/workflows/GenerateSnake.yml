@@ -8,6 +8,8 @@ jobs:
   update-repository:
     name: Update this repo's README with repository_owner
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v2
