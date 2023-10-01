@@ -14,12 +14,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Generate Snake
-        uses: Platane/snk@master
+        uses: Platane/snk/svg-only@v3
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            ./img/snake.gif
             ./img/snake.svg
       - name: Push to GitHub
         uses: EndBug/add-and-commit@main
