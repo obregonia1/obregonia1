@@ -2,7 +2,7 @@ name: GenerateSnake
 on:
   workflow_dispatch:
   schedule:
-    - cron: "10 13 * * *"
+    - cron: "40 8 * * *"
 
 jobs:
   update-repository:
@@ -20,6 +20,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             ./img/snake.svg
+            ./img/snake.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Push to GitHub
