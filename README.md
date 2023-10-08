@@ -2,8 +2,11 @@
 
 
 <div>
-
-![github-contribution-grid-snake](https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg) 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
+</picture>
 
 ### <img src="./img/zenn.svg" width="70px"> Latest articles:
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=obregonia1&show_icons=true&theme=tokyonight&layout=compact&locale=en&langs_count=10" alt="obregonia1" />
@@ -26,7 +29,7 @@
 - <a href="https://www.obregonia1.com/">Homepage</a>
 - [Visible Scratch Skillz](https://visible-scratch-skillz.net/)
   - Web site for creating scratch chart(for turntablist)
-  
+
 
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=obregonia1&show_icons=true&count_private=true&theme=tokyonight&custom_title=obregonia1's%20GitHub%20Stats&locale=en" alt="obregonia1" />
